@@ -1,1 +1,1 @@
-# methamphetamine-response-cpm
+# Connectome-based encoding of subjective drug responses to acute oral methamphetamine 
