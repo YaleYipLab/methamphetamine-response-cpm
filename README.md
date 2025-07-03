@@ -6,7 +6,7 @@
 - [Reference](#Reference)
 - [Code](#Code)
 - [Files](#Files)
-- [Atlas](#atlas)
+- [Atlas](#Atlas)
 - [Contact](#Contact)
 ------------------------------------------------------------------------
 
