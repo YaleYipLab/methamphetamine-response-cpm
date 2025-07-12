@@ -6,7 +6,6 @@
 - [Reference](#Reference)
 - [Code](#Code)
 - [Files](#Files)
-- [Atlas](#Atlas)
 - [Contact](#Contact)
 ------------------------------------------------------------------------
 
@@ -40,10 +39,6 @@ Analyses were conducted using MATLAB version R2021a.
 1. network_definition.txt - Contains node numbers and network affiliations for Shen 268 atlas.
 2. Positive_Network_Weight_Mask.txt - Weight mask of positive network edges for replication.
 3. Negative_Network_Weight_Mask.txt - Weight mask of negative network edges for replication.
-
-------------------------------------------------------------------------
-
-## Atlas
 
 ------------------------------------------------------------------------
 
