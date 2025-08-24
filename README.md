@@ -19,7 +19,7 @@ The repository contain files and MATLAB code to run connectome-based predictive 
 
 Please cite:
 
-- **Rodriguez-Santos et al., 2025**: Connectome-based encoding of subjective drug responses to acute oral methamphetamine
+- **Rodriguez Santos et al., 2025**: Connectome-based encoding of subjective drug responses to acute oral methamphetamine
 
 ------------------------------------------------------------------------
 
